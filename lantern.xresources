@@ -1,0 +1,22 @@
+! lantern
+*.color0:       #090808
+*.color1:       #c74918
+*.color2:       #909a40
+*.color3:       #cb8829
+*.color4:       #6a857d
+*.color5:       #be5a5d
+*.color6:       #7a9a7a
+*.color7:       #b0a473
+*.color8:       #8f7f70
+*.color9:       #fc5d1f
+*.color10:      #cecd2f
+*.color11:      #ffab33
+*.color12:      #b0bd90
+*.color13:      #e68f77
+*.color14:      #b0ce8f
+*.color15:      #f5df99
+*.background:	#0f0f0f
+! high contrast
+! *.background:   #090808
+*.foreground:   #f5df99
+*.cursorColor:  #f5df99
